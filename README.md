@@ -1,0 +1,1 @@
+This is very basic, I'm very new to python programming. So please don't make fun of me. Please lmk if there's anything wrong. I made a feature that creates a txt file that kinda makes fun of you. No money being taken
